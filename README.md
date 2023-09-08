@@ -43,5 +43,12 @@ library(corrplot) # for correlation plot
 library(GGally) # for parallel coordinate plot
 library(e1071) # for svm
 data(penguins) # load pre-processed penguins 
+![image](https://github.com/benislam/Data-Visualization-with-R/assets/43390687/68bd8299-f7f3-417b-a80f-a83ef7187cf3)
 
-From <https://www.r-bloggers.com/2020/07/basic-data-analysis-with-palmerpenguins/> ![image](https://github.com/benislam/Data-Visualization-with-R/assets/43390687/68bd8299-f7f3-417b-a80f-a83ef7187cf3)
+
+View Data Palmerpenguins:
+head(penguins)
+![image](https://github.com/benislam/Data-Visualization-with-R/assets/43390687/01a80c65-f3b2-49d9-ad88-df4bf2202cd7)
+
+
+

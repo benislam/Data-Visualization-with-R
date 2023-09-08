@@ -3,6 +3,7 @@ In this case study I will load, tidy (clean) and view palmerpenguins data in R S
 
 
 
+Installing Palmerpenguine Dataset.
 
 install.packages("palmerpenguins")
 

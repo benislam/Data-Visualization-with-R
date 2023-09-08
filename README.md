@@ -3,6 +3,7 @@ In this case study I will load, tidy (clean) and view palmerpenguins data in R S
 
 Installing the palmerpenguins data set![image](https://github.com/benislam/Data-Visualization-with-R/assets/43390687/2c384c3b-dc95-48e8-b118-7535c10ba294)
 
+
 install.packages("palmerpenguins")
 
 Load the Data:
